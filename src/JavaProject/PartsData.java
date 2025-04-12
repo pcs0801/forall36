@@ -1,4 +1,4 @@
-package JavaFinalProject;
+package JavaProject;
 
 public class PartsData extends Object {
 	private String name;
