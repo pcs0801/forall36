@@ -9,8 +9,7 @@ public class PartsManager {
 
 	public static void main(String[] args) {
 		ArrayList<PartsData> parts = new ArrayList<>();
-		System.out.println("GitHub 연동 + Eclipse 연동 테스트 성공!");
-		System.out.println("노트북 -> pc GitHub 연동 + Eclipse 연동 테스트 성공!");
+		System.out.println("PC -> 노트북 연동");
 
 		// 변수선언
 		boolean stopFlag = false;
