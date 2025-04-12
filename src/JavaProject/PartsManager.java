@@ -12,6 +12,7 @@ public class PartsManager {
 		System.out.println("PC -> 노트북 연동");
 		System.out.println("노트북 -> pc 연동");
 		System.out.println("라스트 pc -> 노트북 연동");
+		System.out.println("라스트 노트북 -> pc 연동");
 
 		// 변수선언
 		boolean stopFlag = false;
