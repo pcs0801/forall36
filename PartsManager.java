@@ -1,4 +1,4 @@
-package JavaFinalProject;
+package JavaProject;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -9,6 +9,8 @@ public class PartsManager {
 
 	public static void main(String[] args) {
 		ArrayList<PartsData> parts = new ArrayList<>();
+		System.out.println("GitHub 연동 + Eclipse 연동 테스트 성공!");
+		System.out.println("노트북 -> pc GitHub 연동 + Eclipse 연동 테스트 성공!");
 
 		// 변수선언
 		boolean stopFlag = false;
